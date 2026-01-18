@@ -24,11 +24,12 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=eduziss&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=eduziss&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
 
-![](https://streak-stats.demolab.com?user=eduziss&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com?user=eduziss&theme=dark&hide_border=true&cache_seconds=86400)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduziss&theme=dark&hide_border=true&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduziss&theme=dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400)
+
 
 ---
 
